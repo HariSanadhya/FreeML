@@ -1,3 +1,28 @@
+# Some Great Articles: (downloadable)
+📌 Predicting the Future with Mark Cuban
+https://lnkd.in/eYndTaR
+📌 Top Data Science, Machine Learning Methods, Algorithms used
+https://lnkd.in/denBHU4
+📌 Walkthrough example of how to use Deep Learning to solve a problem
+https://lnkd.in/dEf-6rV
+📌 Machine Learning In The Real World 
+https://lnkd.in/dQsXvk4
+📌 Comparison of Classification algorithms
+https://lnkd.in/d6fNXYy
+📌 An Introduction to Convolutional Neural Networks
+https://lnkd.in/dnyqrVE
+📌 The Mathematics of Machine Learning
+https://lnkd.in/deiKZvG
+📌 Google Machine Learning Dictionary
+https://lnkd.in/dPieii6
+📌 The GIT cheatsheet
+https://lnkd.in/dcMcc9q
+📌 Data Visualization – How to Pick the Right Chart Type? (16 pages)
+https://lnkd.in/d5keuUC
+💙 The Ultimate Guide to AI, Data Science & Machine Learning
+https://lnkd.in/eiPz3GJ
+
+
 # Data Science Resources (Mostly Free)
 
 The first half is more or less my learning path in the past two years while the second half is my plan for this year. I tried to make a balance between comprehension and doability. For more extensive lists, you can check [Github search](https://github.com/search?utf8=%E2%9C%93&q=awesome+machine+learning&type=) or [CS video lectures](https://github.com/Developer-Y/cs-video-courses)
