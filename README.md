@@ -1,26 +1,26 @@
-# Some Great Articles: (downloadable)
-📌 Predicting the Future with Mark Cuban
-https://lnkd.in/eYndTaR
-📌 Top Data Science, Machine Learning Methods, Algorithms used
-https://lnkd.in/denBHU4
-📌 Walkthrough example of how to use Deep Learning to solve a problem
-https://lnkd.in/dEf-6rV
-📌 Machine Learning In The Real World 
-https://lnkd.in/dQsXvk4
-📌 Comparison of Classification algorithms
-https://lnkd.in/d6fNXYy
-📌 An Introduction to Convolutional Neural Networks
-https://lnkd.in/dnyqrVE
-📌 The Mathematics of Machine Learning
-https://lnkd.in/deiKZvG
-📌 Google Machine Learning Dictionary
-https://lnkd.in/dPieii6
-📌 The GIT cheatsheet
-https://lnkd.in/dcMcc9q
-📌 Data Visualization – How to Pick the Right Chart Type? (16 pages)
-https://lnkd.in/d5keuUC
-💙 The Ultimate Guide to AI, Data Science & Machine Learning
-https://lnkd.in/eiPz3GJ
+# Some Great Articles: (downloadable) <br>
+📌 Predicting the Future with Mark Cuban<br>
+https://lnkd.in/eYndTaR<br>
+📌 Top Data Science, Machine Learning Methods, Algorithms used<br>
+https://lnkd.in/denBHU4<br>
+📌 Walkthrough example of how to use Deep Learning to solve a problem<br>
+https://lnkd.in/dEf-6rV<br>
+📌 Machine Learning In The Real World <br>
+https://lnkd.in/dQsXvk4<br>
+📌 Comparison of Classification algorithms<br>
+https://lnkd.in/d6fNXYy<br>
+📌 An Introduction to Convolutional Neural Networks<br>
+https://lnkd.in/dnyqrVE<br>
+📌 The Mathematics of Machine Learning<br>
+https://lnkd.in/deiKZvG<br>
+📌 Google Machine Learning Dictionary<br>
+https://lnkd.in/dPieii6<br>
+📌 The GIT cheatsheet<br>
+https://lnkd.in/dcMcc9q<br>
+📌 Data Visualization – How to Pick the Right Chart Type? (16 pages)<br>
+https://lnkd.in/d5keuUC<br>
+💙 The Ultimate Guide to AI, Data Science & Machine Learning<br>
+https://lnkd.in/eiPz3GJ<br>
 
 
 # Data Science Resources (Mostly Free)
